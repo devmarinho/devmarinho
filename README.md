@@ -15,7 +15,7 @@
 
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=devmarinho&show_icons=true&theme=gotham" alt="devmarainho" /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=devmarinho&show_icons=true&theme=gotham" alt="devmarinho" /> 
 </p>
 <p align="center"> 
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devmarinho&layout=compact&theme=gotham" />
